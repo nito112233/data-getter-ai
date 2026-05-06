@@ -10,10 +10,10 @@ This project is intended to run locally at:
 http://data-getter-ai.test
 ```
 
-The Filament admin panel is available at:
+The Filament dashboard is available at:
 
 ```text
-http://data-getter-ai.test/admin
+http://data-getter-ai.test
 ```
 
 ## Current Stack
