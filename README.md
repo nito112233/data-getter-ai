@@ -20,7 +20,7 @@ http://data-getter-ai.test
 
 - Laravel 12
 - Filament 5
-- SQLite for local development
+- MySQL for local development
 - Database-backed sessions, cache, and queues
 
 ## Useful Commands
@@ -32,10 +32,10 @@ php artisan filament:make-user
 php artisan about
 ```
 
-For local-only development, the default database file is:
+For local-only development, the default database is:
 
 ```text
-database/database.sqlite
+data_getter_ai
 ```
 
 ## Project Roadmap
